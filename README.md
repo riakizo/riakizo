@@ -3,7 +3,7 @@
 💻 Full-Stack Developer | ☁️ Azure Enthusiast | 📊 Data Analyst | 🌍 Juba, South Sudan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=riakisaac&label=Profile%20views&color=0e75b6&style=flat" alt="riakisaac" /> 
+  <img src="https://komarev.com/ghpvc/?username=riakizo&label=Profile%20views&color=0e75b6&style=flat" alt="riakizo" /> 
   <a href="https://twitter.com/Riak03" target="blank">
     <img src="https://img.shields.io/twitter/follow/Riak03?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" />
   </a>
