@@ -69,5 +69,8 @@
 - [ ] Launch a SaaS product for data analysis
 - [ ] Mentor 10 aspiring developers from Africa
 
+## 📚 Resources
+- [**Basic Git Commands Guide**](./GIT_COMMANDS.md) - A comprehensive guide to essential Git commands with practical examples
+
 ## ✨ Fun Fact
 I'm passionate about bridging the tech gap in South Sudan and currently organizing coding workshops for local students!
